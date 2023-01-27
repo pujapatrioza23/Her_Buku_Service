@@ -1,0 +1,5 @@
+com\puja\buku\service\service\BukuService.class
+com\puja\buku\service\BukuServiceApplication.class
+com\puja\buku\service\entity\Buku.class
+com\puja\buku\service\controller\BukuController.class
+com\puja\buku\service\repository\BukuRepository.class
